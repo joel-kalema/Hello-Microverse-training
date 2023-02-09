@@ -25,15 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -60,13 +51,16 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> 
 
 **[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
+
+- Html
+- Css
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -121,7 +115,11 @@ After you're finished please remove all the comments and instructions!
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running follow these simple example steps.
+
+1. Download the zip file or clone with this command `git clone git@github.com:joel-kalema/Mobile-version-skeleton.git`(Make sure you have `Git installed` in your Computer or Install it by following [these steps](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
+2. `cd Mobile-version-skeleton`
+3. Open it with the live server
 
 ### Prerequisites
 
@@ -207,15 +205,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@joel-kalema](https://github.com/joel-kalema)
+- Twitter: [@JoelJklm](https://twitter.com/JoelJklm)
+- LinkedIn: [joel kalema](https://www.linkedin.com/in/joel-kalema-30518a230/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
