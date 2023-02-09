@@ -117,7 +117,7 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running follow these simple example steps.
 
-1. Download the zip file or clone with this command `git clone git@github.com:joel-kalema/Mobile-version-skeleton.git`(Make sure you have `Git installed` in your Computer or Install it by following [these steps](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
+1. Download the zip file or clone with this command `https://github.com/joel-kalema/Hello-Microverse-training.git`(Make sure you have `Git installed` in your Computer or Install it by following [these steps](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
 2. `cd Mobile-version-skeleton`
 3. Open it with the live server
 
